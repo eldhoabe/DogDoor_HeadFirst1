@@ -26,6 +26,8 @@ namespace DogDoor_HeadFirst1
 
             if (door.IsOpen())
                 door.Close();
+            else
+                door.Open();
         }
     }
 }
