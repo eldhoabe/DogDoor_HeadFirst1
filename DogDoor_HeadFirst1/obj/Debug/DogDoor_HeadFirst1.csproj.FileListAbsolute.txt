@@ -1,0 +1,5 @@
+E:\WorkShops\DogDoor_HeadFirst1\DogDoor_HeadFirst1\bin\Debug\DogDoor_HeadFirst1.exe
+E:\WorkShops\DogDoor_HeadFirst1\DogDoor_HeadFirst1\bin\Debug\DogDoor_HeadFirst1.pdb
+E:\WorkShops\DogDoor_HeadFirst1\DogDoor_HeadFirst1\obj\Debug\DogDoor_HeadFirst1.csprojResolveAssemblyReference.cache
+E:\WorkShops\DogDoor_HeadFirst1\DogDoor_HeadFirst1\obj\Debug\DogDoor_HeadFirst1.exe
+E:\WorkShops\DogDoor_HeadFirst1\DogDoor_HeadFirst1\obj\Debug\DogDoor_HeadFirst1.pdb
