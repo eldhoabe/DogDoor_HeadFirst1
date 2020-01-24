@@ -10,7 +10,7 @@ namespace DogDoor_HeadFirst1
         /// <summary>
         /// The door object to deal with
         /// </summary>
-        DogDoor door;
+        readonly DogDoor door;
 
         public Remote(DogDoor dogDoor)
         {
